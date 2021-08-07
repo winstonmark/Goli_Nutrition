@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Flatworld company email</description>
+      <initValue>'winston.kahid@flatworld.com.ph\r\n'</initValue>
+      <name>myCompanyEmail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Test email</description>
+      <initValue>'tonkahid@gmail.com'</initValue>
+      <name>myTestEmail</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>American Express</description>
+      <initValue>'370032018305909'</initValue>
+      <name>myGoliCcNo</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Credit Card Expiration</description>
+      <initValue>'07 / 26'</initValue>
+      <name>myGoliCcExp</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Credit Card Security Code</description>
+      <initValue>'5759'</initValue>
+      <name>myGoliCcSc</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Name on CC</description>
+      <initValue>'Winston Kahid'</initValue>
+      <name>myGoliCcName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://immuneti.com/'</initValue>
+      <name>url_immuneti</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://goli.com/'</initValue>
+      <name>url_goli</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://ashwa.com/'</initValue>
+      <name>url_ashwa</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://goli.com/pages/home-superfruits'</initValue>
+      <name>url_superfruits</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'09151868375'</initValue>
+      <name>myContactNo</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
